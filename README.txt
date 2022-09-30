@@ -1,5 +1,5 @@
 This program sends a random philosophical quote 
-to any emails.
+to any emails. Quotes not in a separate txt. They're in the main file.
 
 
 #CHANGE THIS FIELD TO MATCH YOUR ACCOUNT:
